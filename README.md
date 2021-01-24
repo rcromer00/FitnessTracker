@@ -9,4 +9,4 @@ In this assignment we were tasked with creating a fitness tracker that allows us
 This application was built using a Mongo database to house user inputs as well as Express to connect to the different routes.
 
 # Screenshot
-    ![Homescreen](/public/img/homescreen.png)
+
